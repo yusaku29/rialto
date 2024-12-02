@@ -26,7 +26,7 @@
     "require-dev": {
         "codedungeon/phpunit-result-printer": ">=0.6 <1.0",
         "monolog/monolog": "^3.0",
-        "phpunit/phpunit": "^6.5|^7.0"
+        "phpunit/phpunit":  "^9.0 || ^10.0"
     },
     "suggest": {
         "ext-weakref": "Required to run all the tests"
